@@ -1,0 +1,1 @@
+@Pathvariable = para pegar dados da url
