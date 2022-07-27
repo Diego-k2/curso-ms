@@ -1,1 +1,6 @@
 @Pathvariable = para pegar dados da url
+
+Feign = outro modo de conectar os projetos
+	* Na classe main colocar "@EnableFeignClients"
+	* Criar interface para pegar apenas Assinatura do metodo
+@Component - componente gerenciando pelo spring
