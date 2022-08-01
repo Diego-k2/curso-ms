@@ -15,3 +15,7 @@ Ribbon = Balanceador de carga
 	*Adicionar @RibbonClient na main
 	*E adicionar nome_projeto.ribbon.listOfServers=portas
 
+Eureka - Servidor 
+	* Eureka server- Servidor
+	* Eureka Cliente - MS que vão usar o Eureka
+
