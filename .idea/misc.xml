@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/hr-workers/pom.xml" />
         <option value="$PROJECT_DIR$/hr-folhaDePagemento/pom.xml" />
+        <option value="$PROJECT_DIR$/hr-eureka-server/pom.xml" />
       </list>
     </option>
   </component>

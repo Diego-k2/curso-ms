@@ -7,16 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hr-workers" />
+        <module name="hr-eureka-server" />
         <module name="hr-folhaDePagemento" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="hr-eureka-server" target="11" />
       <module name="hr-folhaDePagemento" target="11" />
       <module name="hr-workers" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hr-eureka-server" options="-parameters" />
       <module name="hr-folhaDePagemento" options="-parameters" />
       <module name="hr-workers" options="-parameters" />
     </option>
