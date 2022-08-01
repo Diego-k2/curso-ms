@@ -17,7 +17,12 @@ Ribbon = Balanceador de carga
 
 Eureka - Servidor 
 	* Eureka server- Servidor
-	* Eureka Cliente - MS que vão usar o Eureka
 	* Adicionar dependencia JAXB
 	* Usar versão mais recente do Spring boot
 	* No main colocar @EnableEurekaServer
+	* Ver configurações no Properties 
+ 
+Configurar ms como clientes do EUREKA
+	* Adicionar Eureka Client dependencia
+	* No main colocar @EnableEurekaClient
+	* Ver configurações no Properties 
