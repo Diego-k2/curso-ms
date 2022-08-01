@@ -1,6 +1,5 @@
 package com.diegok2.hrfolhaDePagemento.model.entity;
 
-import javax.persistence.*;
 import java.io.Serializable;
 
 

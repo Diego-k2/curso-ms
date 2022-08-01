@@ -1,6 +1,17 @@
+Definir sempre o nome do micro serviço 
+
 @Pathvariable = para pegar dados da url
 
 Feign = outro modo de conectar os projetos
 	* Na classe main colocar "@EnableFeignClients"
 	* Criar interface para pegar apenas Assinatura do metodo
+	* Open Feign é a depencia
+
+
 @Component - componente gerenciando pelo spring
+
+
+Ribbon = Balanceador de carga
+	*Adicionar @RibbonClient na main
+	*E adicionar nome_projeto.ribbon.listOfServers=portas
+
