@@ -1,0 +1,7 @@
+com\diegok2\hrfolhaDePagemento\controller\PaymentController.class
+com\diegok2\hrfolhaDePagemento\config\AppConfig.class
+com\diegok2\hrfolhaDePagemento\feignClients\WorkerFeignClients.class
+com\diegok2\hrfolhaDePagemento\model\entity\Payment.class
+com\diegok2\hrfolhaDePagemento\HrFolhaDePagementoApplication.class
+com\diegok2\hrfolhaDePagemento\service\PaymentService.class
+com\diegok2\hrfolhaDePagemento\model\entity\Worker.class
