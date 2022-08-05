@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hr-payroll" />
         <module name="hr-eureka-server" />
+        <module name="hr-payrool" />
         <module name="hr-workers" />
         <module name="hr-folhaDePagemento" />
       </profile>
@@ -16,6 +17,7 @@
       <module name="hr-eureka-server" target="11" />
       <module name="hr-folhaDePagemento" target="11" />
       <module name="hr-payroll" target="11" />
+      <module name="hr-payrool" target="11" />
       <module name="hr-workers" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -24,6 +26,7 @@
       <module name="hr-eureka-server" options="-parameters" />
       <module name="hr-folhaDePagemento" options="-parameters" />
       <module name="hr-payroll" options="-parameters" />
+      <module name="hr-payrool" options="-parameters" />
       <module name="hr-workers" options="-parameters" />
     </option>
   </component>

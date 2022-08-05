@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/hr-eureka-server/hr-eureka-server.iml" filepath="$PROJECT_DIR$/hr-eureka-server/hr-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/hr-folhaDePagemento/hr-folhaDePagemento.iml" filepath="$PROJECT_DIR$/hr-folhaDePagemento/hr-folhaDePagemento.iml" />
       <module fileurl="file://$PROJECT_DIR$/hr-folhaDePagemento/hr-payroll.iml" filepath="$PROJECT_DIR$/hr-folhaDePagemento/hr-payroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-payrool/hr-payrool.iml" filepath="$PROJECT_DIR$/hr-payrool/hr-payrool.iml" />
       <module fileurl="file://$PROJECT_DIR$/hr-workers/hr-workers.iml" filepath="$PROJECT_DIR$/hr-workers/hr-workers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ms-course.iml" filepath="$PROJECT_DIR$/.idea/ms-course.iml" />
     </modules>
