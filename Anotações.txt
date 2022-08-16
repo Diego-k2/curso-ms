@@ -26,3 +26,7 @@ Configurar ms como clientes do EUREKA
 	* Adicionar Eureka Client dependencia
 	* No main colocar @EnableEurekaClient
 	* Ver configurações no Properties 
+
+hystrix trata tolerancia a falhas 
+	* Gera caminhos alternativos para os recursos 
+	* Colocar a anotação @EnableCircuitBreaker na main

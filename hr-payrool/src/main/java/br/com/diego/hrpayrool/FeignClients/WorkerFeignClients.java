@@ -1,6 +1,7 @@
 package br.com.diego.hrpayrool.FeignClients;
 
 import br.com.diego.hrpayrool.model.entity.Worker;
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
@@ -13,5 +14,8 @@ public interface WorkerFeignClients {
 
     @GetMapping(value = "/{id}")
     ResponseEntity<Worker> findById(@PathVariable Long id);
+
+
+
 
 }
